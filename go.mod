@@ -1,4 +1,4 @@
-module collect
+module github.com/notgurev/collect
 
 go 1.21
 
